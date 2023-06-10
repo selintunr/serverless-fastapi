@@ -12,5 +12,3 @@ Make it work on localhost via uvicorn:
 `uvicorn app.main:app --reload`
 
 
-`cd env/lib/python3.7/site-packages`
-`zip -r9 ../../../../function.zip .`
